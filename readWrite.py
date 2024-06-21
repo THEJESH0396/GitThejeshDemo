@@ -16,8 +16,8 @@ file = open('test.txt')
 #values = [abc, bvdsf, "cat", dog, elephant]
 for line in file.readlines():
     print(line)
-      print(line)
-  print(line)
+    print("code")
+      
 
 
 
