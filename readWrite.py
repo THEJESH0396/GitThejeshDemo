@@ -5,7 +5,7 @@ file = open('test.txt')
 #read one single line at a time readLine()
 # print(file.readline())
 # print(file.readline())
-
+# print(file.readline())
 #Print line by line using readLine method
 # line = file.readline()
 # while line!="":
