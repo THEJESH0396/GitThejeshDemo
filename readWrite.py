@@ -20,5 +20,4 @@ for line in file.readlines():
 
 
 
-
 file.close()
